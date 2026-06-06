@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+// TypeScript may not have declarations for importing CSS files. Ignore the error for this side-effect import.
+// @ts-ignore
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
