@@ -4,8 +4,7 @@ A fully functional e-commerce product listing app built with **Next.js 14**, **T
 
 ## 🔗 Live Demo
 
-> **[https://whatbytes-store.vercel.app](https://whatbytes-store.vercel.app)**  
-> *(Replace this with your actual Vercel URL after deployment)*
+> **https://whatbytes-store-ashen.vercel.app/**  
 
 ---
 
